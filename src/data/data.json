@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "popular": true,
+      "offer_title": "1 Months Pack (4 tubes)",
+      "savings": 200,
+      "percent": "38%",
+      "details": "Best Results",
+      "oldsp": 795,
+      "newsp": 595
+    },
+    {
+      "id": 2,
+      "popular": false,
+      "offer_title": "3 Months Pack (12 tubes)",
+      "savings": 100,
+      "percent": "12%",
+      "details": "",
+      "oldsp": 999,
+      "newsp": 899
+    }
+  ]
